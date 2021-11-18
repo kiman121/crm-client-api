@@ -19,3 +19,8 @@ Content-Type: application/json
     "email": "test2@example.com",
     "password": "test123#"
 }
+
+### Get a user profile endpoint
+GET http://localhost:3001/v1/user
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3QyQGV4YW1wbGUuY29tIiwiaWF0IjoxNjM3MjExNjMxLCJleHAiOjE2MzcyMTI1MzF9.tI3Cu-5_sSE4hE1b2jE-9csWTYW_Tx-ueb2Mjc_zkV4
+
